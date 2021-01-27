@@ -5,6 +5,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiosBombay&show_icons=true)  
 
-### You can find some of my projects below. However, most of it is in my organizations.
+### You can find some of my projects below. However, most of it is in my organization.
 
 [Project-Entity](https://github.com/Project-Entity)
