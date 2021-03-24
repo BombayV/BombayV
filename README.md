@@ -1,6 +1,6 @@
 ### Oi
 
-- 🌱 I’m currently learning LUA and JS. Maybe in a future if I still like programming I'll learn TS or Python.
+- 🌱 I’m currently learning LUA, JS, and TS. Maybe I'll learn python one day. 🤮
 - 🏫 School is still a thing so don't have much time.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiosBombay&count_private=true&show_icons=true&theme=dark)
