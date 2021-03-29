@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Welcome
   
-- 🌱 I’m currently learning LUA, JS, and TS. Maybe I'll learn python one day. 🤮
-- 🏫 School is still a thing so don't have much time.
+I’m currently learning LUA, JS, and TS. Maybe I'll learn python one day. 🤮
+School is still a thing so don't have much time.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=XiosBombay&count_private=true&show_icons=true&theme=midnight-purple)
 
