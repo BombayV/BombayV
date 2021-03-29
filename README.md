@@ -10,4 +10,6 @@
 [Project-Entity](https://github.com/Project-Entity)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Project-Entity&repo=pe-adminmenu&theme=midnight-purple)
 
-<img src="https://i.imgur.com/ezXWl4z.png" alt="W3Schools.com">
+<a href="link">
+  <img src="https://i.imgur.com/ezXWl4z.png" alt="Project Entity" style="width:42px;height:42px;">
+</a>
