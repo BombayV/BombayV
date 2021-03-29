@@ -1,5 +1,5 @@
-### Oi
-
+<h1 align="center">Oi! Welcome
+  
 - 🌱 I’m currently learning LUA, JS, and TS. Maybe I'll learn python one day. 🤮
 - 🏫 School is still a thing so don't have much time.
 
