@@ -10,6 +10,6 @@
 [Project-Entity](https://github.com/Project-Entity)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Project-Entity&repo=pe-adminmenu&theme=midnight-purple)
 
-<a href="link">
+<a href="https://github.com/Project-Entity">
   <img src="https://i.imgur.com/ezXWl4z.png" alt="Project Entity" style="width:42px;height:42px;">
 </a>
