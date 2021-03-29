@@ -8,6 +8,6 @@
 ### You can find some of my projects below. However, most of it is in my organization.
 
 [Project-Entity](https://github.com/Project-Entity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Project-Entity&repo=pe-adminmenu&theme=midnight-purple)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Project-Entity&repo=pe-adminmenu&theme=midnight-purple)
 
 <img src="https://i.imgur.com/ezXWl4z.png" alt="W3Schools.com">
