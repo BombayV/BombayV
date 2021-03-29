@@ -12,5 +12,5 @@
 </a>
 
 <a href="https://github.com/Project-Entity">
-  <img src="https://i.imgur.com/ezXWl4z.png" alt="Project Entity" style="width:42px;height:42px;">
+  <img src="https://i.imgur.com/ezXWl4z.png" alt="Project Entity" style="width:100px;height:100px;">
 </a>
