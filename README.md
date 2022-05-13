@@ -1,5 +1,5 @@
 # Welcome to my weird profile!
-I'm 17-year-old guy who loves to code and maintain open source projects. Current owner and maintainer of [AtlasFw](https://github.com/AtlasFw).
+I'm 17-year-old guy who loves to code and maintain open source projects. Current owner and maintainer of [AtlasFw](https://github.com/AtlasFw) and [EntityEvolution](https://github.com/EntityEvolution).
 
 ## Experience
 - Frontend Frameworks/Libraries (Tailwindcss, VueJS 3.0)
