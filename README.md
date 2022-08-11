@@ -13,5 +13,6 @@ I'm 17-year-old guy who loves to code and maintain open source projects. Current
 - Loves to play soccer and do photography.
 - Watches anime for fun.
 
-<img src="https://github-readme-stats.vercel.app/api?username=BombayV&count_private=true&include_all_commits=true&show_icons=true&theme=omni&custom_title=Bombay's Bad Stats"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=BombayV&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&border_radius=10)
+
 <img src="https://komarev.com/ghpvc/?username=BombayV&style=flat-square"/>
