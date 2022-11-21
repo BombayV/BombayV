@@ -3,6 +3,7 @@ I'm 17-year-old guy who loves to code and maintain open source projects. Current
 
 ## Experience
 - JS
+- TS
 - Java
 - HTML 5
 - CSS 3
