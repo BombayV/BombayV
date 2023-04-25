@@ -15,8 +15,7 @@ I'm 18-year-old guy who loves to code and maintain open source projects. Current
 - Nuxt 3
 
 ## Fun Facts
-- Loves to play soccer and do [photography](https://imbombay.tech/gallery).
-- Watches anime when available.
+- Loves to play football (soccer) and do [photography](https://imbombay.tech/gallery).
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BombayV&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&border_radius=10)
 
