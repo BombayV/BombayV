@@ -13,6 +13,8 @@ I'm 18-year-old guy who loves to code and maintain open source projects. Current
 - VueJs 3.0
 - ReactJs
 - Nuxt 3
+- SvelteJs
+- SvelteKit
 
 ## Fun Facts
 - Loves to play football (soccer) and do [photography](https://imbombay.tech/gallery).
