@@ -15,6 +15,8 @@ I'm 18-year-old guy who loves to code and maintain open source projects. Current
 - Nuxt 3
 - SvelteJs
 - SvelteKit
+- Python 3
+- Flask
 
 ## Fun Facts
 - Loves to play football (soccer) and do [photography](https://imbombay.tech/gallery).
