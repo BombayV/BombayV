@@ -2,21 +2,15 @@
 I'm an 18-year-old guy who loves to code and maintain open-source projects. Current owner and maintainer of [AtlasFw](https://github.com/AtlasFw), [EntityEvolution](https://github.com/EntityEvolution), and [Overdrive Labs](https://github.com/OverdriveLabs) (hopefully I get time to continue them sometime).
 
 ## Experience
-- JavaScript
-- TypeScript
-- NodeJS
+- JavaScript, TypeScript, NodeJS
 - Java
-- HTML 5
-- CSS 3
 - Lua
-- TailwindCSS
-- VueJs 3.0
+- HTML 5
+- CSS 3 (TailwindCSS)
+- VueJs 3.0 (Nuxt 3)
 - ReactJs
-- Nuxt 3
-- SvelteJs
-- SvelteKit
-- Python 3
-- Flask
+- SvelteJs (SvelteKit)
+- Python 3 (Flask)
 
 ## Fun Facts
 - Loves to play football (soccer) and do [photography](https://imbombay.tech/gallery).
