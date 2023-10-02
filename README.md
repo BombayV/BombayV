@@ -1,5 +1,5 @@
 # Welcome to my weird profile!
-I'm an 18-year-old guy who loves to code and maintain open-source projects. Current owner and maintainer of [AtlasFw](https://github.com/AtlasFw), [EntityEvolution](https://github.com/EntityEvolution), and [Overdrive Labs](https://github.com/OverdriveLabs) (hopefully I get time to continue them sometime).
+I'm an 18-year-old guy who loves to code and maintain open-source projects. Previously worked on maintaining [AtlasFw](https://github.com/AtlasFw), [EntityEvolution](https://github.com/EntityEvolution), and [Overdrive Labs](https://github.com/OverdriveLabs) (hopefully I get time to continue them sometime).
 
 ## Experience
 - JavaScript, TypeScript, NodeJS
