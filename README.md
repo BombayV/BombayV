@@ -6,9 +6,9 @@ I'm an 18-year-old guy who loves to code and maintain open-source projects. Prev
 - Java
 - Lua
 - HTML 5
-- CSS 3 (TailwindCSS)
+- CSS 3 (TailwindCSS, DaisyUI, NaiveUI, Flowbite)
 - VueJs 3.0 (Nuxt 3)
-- ReactJs
+- ReactJs (NextJS > 13)
 - SvelteJs (SvelteKit)
 - Python 3 (Flask)
 
@@ -17,4 +17,4 @@ I'm an 18-year-old guy who loves to code and maintain open-source projects. Prev
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BombayV&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_radius=10)
 
-<img src="https://komarev.com/ghpvc/?username=BombayV&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=BombayV&label=New+Visits+:)&color=DD6387"/>
