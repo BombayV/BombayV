@@ -15,6 +15,6 @@ I'm an 18-year-old guy who loves to code and maintain open-source projects. Prev
 ## Fun Facts
 - Loves to play football (soccer) and do [photography](https://imbombay.tech/gallery).
 
-![Stats](https://github-readme-stats.vercel.app/api?username=BombayV&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true&border_radius=10)
+![Stats](https://github-readme-stats.vercel.app/api?username=BombayV&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&border_radius=10)
 
 <img src="https://komarev.com/ghpvc/?username=BombayV&style=flat-square"/>
